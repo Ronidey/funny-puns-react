@@ -1,0 +1,38 @@
+.app {
+  font-family: cursive;
+  color: #9f48e4;
+}
+
+.app h1 {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.star {
+  width: 20px;
+  height: 20px;
+  fill: #999;
+  cursor: pointer;
+  /* filter: drop-shadow(1px 1px 0 rgba(0, 0, 0, 0.2)); */
+}
+
+.ratings-meaning {
+  font-size: 0.8rem;
+  margin: 0 0 0.3rem 0;
+}
+
+.pun-card {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 0.5rem 1.5rem;
+  margin: 1rem;
+}
+
+.pun-card_header {
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.pun-card_footer {
+  text-align: right;
+}
